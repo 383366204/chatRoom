@@ -1,4 +1,4 @@
-# socket
+# chatRoom
 
 ## Project setup
 ```
