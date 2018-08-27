@@ -183,17 +183,17 @@ export default {
       { icon: "keyboard", text: "Go to the old version" }
     ],
     msgs: [
-      // {
-      //   sendBy: "sun",
-      //   content: "大家吃饭了吗,我快饿死了啊，一整天没吃饭，救命啊啊啊"
-      // },
-      // { sendBy: "cqh", content: "没啊，你请吗" },
-      // { sendBy: "me", content: "都在等你请" },
-      // { sendBy: "大哥", content: "我也饿了" },
-      // { sendBy: "sun", content: "我还在等你们请呢" },
-      // { sendBy: "小黑", content: "哈哈哈" },
-      // { sendBy: "小黑", content: "哈哈哈" },
-      // { sendBy: "小黑", content: "哈哈哈" }
+      {
+        sendBy: "sun",
+        content: "大家吃饭了吗,我快饿死了啊，一整天没吃饭，救命啊啊啊"
+      },
+      { sendBy: "cqh", content: "没啊，你请吗" },
+      { sendBy: "me", content: "都在等你请" },
+      { sendBy: "大哥", content: "我也饿了" },
+      { sendBy: "sun", content: "我还在等你们请呢" },
+      { sendBy: "小黑", content: "哈哈哈" },
+      { sendBy: "小黑", content: "哈哈哈" },
+      { sendBy: "小黑", content: "哈哈哈" }
     ]
   }),
   computed: {},
